@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 
-public class DbConnectSample01 {
+public class DbConnectSample1 {
 
     public static void main(String[] args) {
         
